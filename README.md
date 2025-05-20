@@ -69,3 +69,23 @@ The dashboard includes:
 
 ## 📁 Repository Contents
 
+
+---
+
+## 🔗 Useful Links
+
+- 📄 [SQL Code](MediaP.sql)
+- 🌐 [My Portfolio](https://datascienceportfol.io/muhammedshabnaspa)
+- 💼 [My GitHub](https://github.com/Muhammed-Shabnas-PA)
+
+---
+
+## 📬 Contact
+
+**Muhammed Shabnas P A**  
+📧 Email: muhammedshabnaspa@gmail.com  
+🔗 GitHub: [@Muhammed-Shabnas-PA](https://github.com/Muhammed-Shabnas-PA)
+
+---
+
+
