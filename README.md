@@ -75,7 +75,7 @@ The dashboard includes:
 ## 🔗 Useful Links
 
 - 📄 [SQL Code](MediaP.sql)
-- 🌐 [My Portfolio](https://datascienceportfol.io/muhammedshabnaspa)
+- 🌐 [My Portfolio](https://muhammed-shabnas-pa.github.io/Portfolio-Website/)
 - 💼 [My GitHub](https://github.com/Muhammed-Shabnas-PA)
 
 ---
